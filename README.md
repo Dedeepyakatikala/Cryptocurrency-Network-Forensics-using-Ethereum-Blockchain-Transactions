@@ -242,13 +242,6 @@ The notebook is designed to run in **Google Colab** (or any environment with Jav
 - **Adaptive thresholding & reinforcement learning** to reduce false positives and dynamically tune detection sensitivity
 - **Collaboration with on-chain labeling/regulatory datasets** to validate detected anomalies and improve evaluation
 
-## References
-
-1. J. Zhou, C. Hu, J. Chi, J. Wu, M. Shen, and Q. Xuan, "Behavior-aware account de-anonymization on Ethereum interaction graph," *arXiv preprint arXiv:2203.09360*, 2022. [Link](https://arxiv.org/abs/2203.09360)
-2. R. Ghnemat and H. Mosa, "Blockchain-based fraud detection: A systematic review of Ethereum network applications," *Cluster Computing*, Springer, 2025. [Link](https://link.springer.com/article/10.1007/s10586-025-05797-w)
-3. M. Shen et al., "Aparecium: Understanding and detecting scam behaviors on Ethereum via biased random walk," *Cybersecurity*, Springer, 2023. [Link](https://link.springer.com/article/10.1186/s42400-023-00180-x)
-4. A. Sethy and A. Ray, "Detection of fraudulent transactions in Ethereum blockchain smart contracts using deep learning," *International Journal of Information Technology*, Springer, 2025. [Link](https://link.springer.com/article/10.1007/s41870-025-02900-7)
-5. V. Satish and S. Ganesh, "Intelligent fraud detection in Ethereum transactions using machine learning," *IJRASET*, 2025. [Link](https://arxiv.org/abs/2509.03939)
 
 ## License
 
